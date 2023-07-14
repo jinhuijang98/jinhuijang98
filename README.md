@@ -4,7 +4,7 @@
 
 ####  Welcome my github profile ! 😄
 <br>
-🔭 I’m currently studying in SSAFY(SAMSUNG SW ACADEMY FOR YOUTH) 10th.
+🔭 I’m currently studying in SSAFY(Samsung SW Academy For Youth) 10th.
 <br>
 
 ### Skills
