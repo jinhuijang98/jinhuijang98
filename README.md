@@ -3,6 +3,9 @@
 <div align="center">
 
 ####  Welcome my github profile ! 😄
+<br>
+🔭 I’m currently studying in SSAFY(SAMSUNG SW ACADEMY FOR YOUTH) 10th.
+<br>
 
 ### Skills
 ##### tools 
