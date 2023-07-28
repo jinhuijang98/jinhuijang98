@@ -21,8 +21,8 @@
 
 [![jinhuijang98's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhuijang98&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![jinhuihang98's github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhuijang98&show_icons=true&hide_border=true&title_color=333333&icon_color=004386&layout=compact)](https://github.com/jinhuijang98)
-
+	
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhuijang98&langs_count=10&layout=compact&theme=dark)](https://github.com/jinhuijang98/jinhuijang98)﻿
 
 </div>
 
