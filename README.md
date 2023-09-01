@@ -3,7 +3,8 @@
 <div align="center">
 
 ####  Welcome my github profile ! 😄
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinhuijang98%2Fhit-counter&count_bg=%23F7B5E9&title_bg=%23AAAAAA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)              
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinhuijang98%2Fhit-counter&count_bg=%23E1B7EF&title_bg=%238A8A8A&icon=&icon_color=%23BEBEBE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <br>
 🔭 I’m currently studying in SSAFY(Samsung SW Academy For Youth) 10th.
